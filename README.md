@@ -2,6 +2,7 @@
 
 J2EE web application created using Spring MVC and purely relying on xml application context instead of annotated java classes.
 
+Please refer to README of spring-mvc-sample project for more information.
 
 References:
 * http://stackoverflow.com/questions/22315672/how-to-configure-spring-mvc-with-pure-java-based-configuration
